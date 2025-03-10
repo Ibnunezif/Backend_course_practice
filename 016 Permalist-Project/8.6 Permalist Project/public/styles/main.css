@@ -83,6 +83,7 @@ button.edit {
 
 .icon {
   height: 20px;
+  cursor: pointer;
 }
 
 input[type="text"] {
